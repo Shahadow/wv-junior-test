@@ -1,0 +1,12 @@
+{
+    "require": {
+        "krugozor/database": "^2.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+      "psr-4": {
+          "Helpers\\": "helpers"
+      }
+    }
+}
+
